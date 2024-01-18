@@ -1,5 +1,5 @@
 # docker-build-shared with shared pipeline references 
-new commit
+new
  
 This pipeline is used to create dockerfile builds. 
 The task references come from this repository ` ../pipelines` `../tasks` and are referenced by URL 
